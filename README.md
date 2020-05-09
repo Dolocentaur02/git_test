@@ -1,1 +1,1 @@
-# git_test
+This is Samuel's rebirth of GIT project!
